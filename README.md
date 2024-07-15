@@ -1,2 +1,19 @@
-# Page-View-Time-Series-Visualizer
-Visualize time series data of daily page views on freeCodeCamp.org forum (2016-05-09 to 2019-12-03) using Pandas, Matplotlib, and Seaborn. Utilize line charts, bar charts, and box plots to reveal patterns, yearly trends, and monthly growth.
+# Page View Time Series Visualizer
+
+This project is part of my FreeCodeCamp Data Analysis with Python Certification. The Page View Time Series Visualizer analyzes and visualizes page view time series data using Python's matplotlib library.
+
+## Features
+- Time series data visualization
+- Insights into page view trends
+- matplotlib library usage
+
+## Technologies Used
+- Python
+- matplotlib
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Happy coding!
